@@ -1,6 +1,6 @@
 {
   "name": "promisifyhttprequest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Using bluebird to promisify Node's http.request",
   "main": "promisifyHttpRequest.js",
   "scripts": {
