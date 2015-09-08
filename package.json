@@ -1,0 +1,19 @@
+{
+  "name": "promisifyhttprequest",
+  "version": "1.0.0",
+  "description": "Using bluebird to promisify Node's http.request",
+  "main": "promisifyHttpRequest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http",
+    "request"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elankeeran/promisifyhttprequest.git"
+  },
+  "author": "Elankeeran",
+  "license": "MIT"
+}
