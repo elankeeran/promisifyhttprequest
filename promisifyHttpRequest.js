@@ -39,14 +39,3 @@ var PromiseRequest = Promise.method(function(options) {
 });
 
 export.promisifyHttpRequest = PromiseRequest;
-
-/*
-var myRequest = PromiseRequest({
-    method: 'GET',
-    host: 'ela.com',
-    port: 80,
-    path: '/weatherReports/1000',
-}).then(function(value) {
-    console.log('value:', value);
-});
-*/

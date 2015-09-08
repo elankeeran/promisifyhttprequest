@@ -15,5 +15,8 @@
     "url": "git+https://github.com/elankeeran/promisifyhttprequest.git"
   },
   "author": "Elankeeran",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.9.34"
+  }
 }
