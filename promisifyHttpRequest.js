@@ -38,4 +38,4 @@ var PromiseRequest = Promise.method(function(options) {
     });
 });
 
-export.promisifyHttpRequest = PromiseRequest;
+module.exports = PromiseRequest;
